@@ -1,0 +1,41 @@
+.body{
+    width: 190px;;
+    height:740px;
+   background-color:rgb(33, 13, 27);
+ color:white;
+ padding-left:10px;
+ padding-top: 60px;
+ position:absolute;top:0px;left:129px;
+}
+.menu{
+     width:800px;
+    height:800px;
+background-color: rgb(236, 179, 203);
+position:absolute;left:320px;top:0px;
+}
+.b{
+   position: relative; left: 300px;
+}
+.table{    
+    width:600px;
+    background-color: white;
+}
+.srch{
+    border-radius: 4px;
+}
+
+.div3{
+    padding-left: 40px;
+}
+.bb{
+border:1px ;
+border-radius: 10px;
+margin:40px;
+background-color: white;
+}
+
+.b2{
+    height:50px;
+    width:auto;
+}
+ 

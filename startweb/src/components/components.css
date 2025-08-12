@@ -1,0 +1,67 @@
+.komal{
+    background-color: rgb(235, 188, 32);
+    border:solid 4px;
+  position :absolute;top: 100px;left:300px;
+  width: 700px;
+  height:500px;
+  
+    
+}
+.B{
+    background-color:rgb(13, 240, 225);
+    
+    width:100px;
+    height: 50px;
+    margin:10px;
+    font-size: large;
+
+    font-weight: solid;
+
+    position:relative;left:150px;top: 10px;;
+}
+.lim{
+    height:500px;
+    width:400px;
+    position:absolute;left:182px;top:50px;
+    border: solid rgb(8, 8, 30) 1px;
+
+    background-color:lightblue;
+
+}
+.kv{
+    font-family:'Segoe UI';
+
+}
+.bird{
+    position:absolute;left:581px;top:50px;
+   /*background-color:white;*/ border: solid  1px;
+    height:500px;
+    width:450px;
+
+}
+.f{
+    position:absolute;left:300px;
+}
+.s{
+   position:absolute;left:120px;top: 285px; 
+}
+ 
+.o{
+    position:relative;left:80px; 
+}
+.q{
+    position:relative;left:80px; 
+}
+.kk{
+    position: relative;top: 1200px;
+}
+.a{
+    color:red;
+}
+.img{
+    width:60px;
+    height:60px;
+}
+//*{
+    background-color: rgb(193, 148, 178);
+}
