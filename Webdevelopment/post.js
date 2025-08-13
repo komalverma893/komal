@@ -11,7 +11,7 @@ app.use(express.json());
 const connection = mysql.createConnection({
     host: "localhost",
     user: "root",
-    password: "komal123",
+    password: "komal123",       //my password
     database: "komal",
     port: 3306
 });
@@ -26,7 +26,7 @@ connection.connect((err) => {
 
 // GET route to fetch data
 app.get('/api/komal', (req, res) => {
-    const sql = 'SELECT * FROM `STD`;'; 
+    const sql = 'SELECT * FROM student'; 
     connection.query(sql, (err, results) => {
         if (err) {
             console.error("Query error:", err.message);
